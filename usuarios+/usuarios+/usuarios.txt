@@ -1,0 +1,13 @@
+- LOGIN 
+
+admin - username = admin 
+        password = admin
+
+pharmacist - username = osoro 
+             password = 1234
+
+cashier - username= gty
+          password = getty
+
+manager -username = samoso
+         password = 12345
